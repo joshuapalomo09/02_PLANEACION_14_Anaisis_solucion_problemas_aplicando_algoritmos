@@ -1,0 +1,2 @@
+# 02_PLANEACION_14_Anaisis_solucion_problemas_aplicando_algoritmos
+análisis de solución aplicando algoritmos
